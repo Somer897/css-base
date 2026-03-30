@@ -1,0 +1,35 @@
+p{
+    color:red;
+    border: 4px dotted red;
+    border-color: red;
+    border-left: 8px dotted violet;
+    border-radius: 8px;
+}
+#para1 {
+    color: green;
+}
+
+.colortext {
+    color: blue;
+}
+.text{
+    width: 200px;
+    border: 2px solid
+}
+
+body {
+    background-color: yellow;
+    background-image: url(assets/background.avif);
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: lightblue;
+    margin: 30px 40px 20px 40px;
+
+    text-align: center;
+}
+
